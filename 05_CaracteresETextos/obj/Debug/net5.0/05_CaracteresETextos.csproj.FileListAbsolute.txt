@@ -1,0 +1,16 @@
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.exe
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.deps.json
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.runtimeconfig.json
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.runtimeconfig.dev.json
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.dll
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\ref\05_CaracteresETextos.dll
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\bin\Debug\net5.0\05_CaracteresETextos.pdb
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.AssemblyInfo.cs
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.dll
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\ref\05_CaracteresETextos.dll
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.pdb
+C:\Users\gdarlan\csharp_workspace\AprendendoCSharp\05_CaracteresETextos\obj\Debug\net5.0\05_CaracteresETextos.genruntimeconfig.cache
